@@ -1,7 +1,8 @@
 # delta-demo
 This is my first git learning demo
-#Teacher
+
+# Teacher
 Shrdha khapra
 
-#student
+# student
 ajay
